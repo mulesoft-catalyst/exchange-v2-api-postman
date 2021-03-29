@@ -1,7 +1,7 @@
 # Exchange v2 API Postman Collection
 
 ## Introduction
-Exchange v2 APIs are a major improvement over v1. Exchange v2 APIs provide the following benefits - 
+Exchange v2 APIs are a major improvement over earlier version. Exchange v2 APIs provide the following benefits - 
 - Improved discoverability
 - Manage asset docs and metadata through Exchange v2 APIs 
 - Publish all types of assets supported by Exchange 
